@@ -1,0 +1,25 @@
+{
+    "name": "vijinho/",
+    "description": "PHP",
+    "keywords": ["php"],
+    "homepage": "https://github.com/vijinho/",
+    "license": "GPL-3.0",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Vijay Mahrra",
+            "email": "vijay@yoyo.org",
+            "homepage": "http://about.me/vijay.mahrra",
+            "role": "Developer"
+        }
+    ],
+    "config": {
+        "vendor-dir": "lib"
+    },
+    "autoload": {
+        "classmap": ["src"]
+    },
+    "require": {
+		"php": ">=5.6"
+	}
+}
