@@ -1,4 +1,4 @@
-#  Skeleton PHP Project Layour
+#  Skeleton PHP Project Layout
 
 ## Quick Start
 
