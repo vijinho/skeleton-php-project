@@ -10,7 +10,6 @@ filter:
         - docs/*
         - lib/*
         - tests/*
-        - examples/*
 
 checks:
     php:
@@ -31,7 +30,7 @@ checks:
 tools:
 
     external_code_coverage:
-        enabled: true
+        enabled: false
         timeout: 1800
         runs: 4
         filter:
