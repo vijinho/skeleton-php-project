@@ -18,5 +18,3 @@ use \vijinho\
 ```
 
 Vijay Mahrra
-http://about.me/vijay.mahrra
-----
